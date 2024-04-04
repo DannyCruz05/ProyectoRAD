@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capanegocio\\cn_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capadatos\\cd_facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capadatos\\cd_facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capanegocio\\cn_facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capanegocio\\cn_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capadatos\\cd_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capanegocio\\cn_pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capanegocio\\cn_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6973F954-6466-4092-8692-CC95590B2FF8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capadatos\\cd_pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3256804-EF99-4195-A9CA-6F27DA15FEB1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capapresentaciob\\facturadedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|solutionrelative:capapresentaciob\\facturadedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\capapresentaciob\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|solutionrelative:capapresentaciob\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capapresentaciob\\grupodedescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|solutionrelative:capapresentaciob\\grupodedescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capapresentaciob\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|solutionrelative:capapresentaciob\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capapresentaciob\\pedidodedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|solutionrelative:capapresentaciob\\pedidodedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|c:\\users\\adali\\source\\repos\\proyecto_capas-main\\appcrudweb\\capapresentaciob\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C458BE-226B-4ADF-81A6-063A12E57405}|CapaPresentaciob\\CapaPresentaciob.csproj|solutionrelative:capapresentaciob\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CD_FacturaDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_FacturaDetalle.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_FacturaDetalle.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_FacturaDetalle.cs",
+              "RelativeToolTip": "CapaDatos\\CD_FacturaDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:47:54.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CN_Factura.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_Factura.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Factura.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_Factura.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Factura.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwCgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:05:56.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CN_FacturaDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_FacturaDetalle.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_FacturaDetalle.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_FacturaDetalle.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_FacturaDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:01:56.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CN_PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_PedidoDetalle.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_PedidoDetalle.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_PedidoDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:56:38.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CD_Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_Pedidos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Pedidos.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_Pedidos.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Pedidos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:53:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CN_Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_Pedidos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Pedidos.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_Pedidos.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Pedidos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:39:14.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CN_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_Clientes.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Clientes.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaNegocio\\CN_Clientes.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Clientes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:51:36.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturaDeDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\FacturaDeDetalle.cs",
+              "RelativeDocumentMoniker": "CapaPresentaciob\\FacturaDeDetalle.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\FacturaDeDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentaciob\\FacturaDeDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:17:09.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentaciob\\Form1.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentaciob\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:39:48.081Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CD_Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_Facturas.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Facturas.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_Facturas.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Facturas.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:42:54.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CD_PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_PedidoDetalle.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaDatos\\CD_PedidoDetalle.cs",
+              "RelativeToolTip": "CapaDatos\\CD_PedidoDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:42:44.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GrupoDeDescuento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\GrupoDeDescuento.cs",
+              "RelativeDocumentMoniker": "CapaPresentaciob\\GrupoDeDescuento.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\GrupoDeDescuento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentaciob\\GrupoDeDescuento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:17:08.461Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaPresentaciob\\Producto.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\Producto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentaciob\\Producto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:17:05.2Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\Pedido.cs",
+              "RelativeDocumentMoniker": "CapaPresentaciob\\Pedido.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\Pedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentaciob\\Pedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:17:01.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidoDeDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\PedidoDeDetalle.cs",
+              "RelativeDocumentMoniker": "CapaPresentaciob\\PedidoDeDetalle.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\PROYECTO_CAPAS-main\\appCrudWeb\\CapaPresentaciob\\PedidoDeDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentaciob\\PedidoDeDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:16:58.022Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
