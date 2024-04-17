@@ -13,3 +13,10 @@ C:\Users\Andres\Desktop\C#\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.d
 C:\Users\Andres\Desktop\C#\appCrudWeb\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
 C:\Users\Andres\Desktop\C#\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
 C:\Users\Andres\Desktop\C#\appCrudWeb\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb

@@ -14,7 +14,9 @@ namespace CapaDatos.Modelos
        
             [Key]
             public int ClienteId { get; set; }
-
+            [Required]
+            [MaxLength(15)]
+             public string Codigo { get; set; }
             [MaxLength(50)]
             [Required]
             public string Nombres { get; set; }
@@ -24,11 +26,9 @@ namespace CapaDatos.Modelos
             public string Apellidos { get; set; }
 
             [Required]
-            [ForeignKey("GrupoDescuentoId")]
             public int GrupoDescuentoId { get; set; }
-            [Required]
 
-            [ForeignKey("CondicionId")]
+            [Required]
             public int CondicionId { get; set; }
             [Required]
             public bool Estado { get; set; }

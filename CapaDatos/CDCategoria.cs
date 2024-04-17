@@ -19,7 +19,7 @@ namespace CapaDatos
         public string Descripcion { get; set; }
         
         public bool Estado { get; set; }
-        public DateTime FechaIngreso { get; set; }
+        public DateTime FechaCreacion { get; set; }
 
         public List<CategoriaModel> TodasLasCategorias()
         {
@@ -44,7 +44,7 @@ namespace CapaDatos
                 categoriaInDb.FechaModificacion = DateTime.Now;
                 categoriaInDb.Codigo = categoria.Codigo;
                 categoriaInDb.Descripcion = categoria.Descripcion;
-                categoriaInDb.FechaIngreso = categoria.FechaIngreso;
+                categoriaInDb.FechaCreacion = categoria.FechaCreacion;
                 categoriaInDb.Estado = categoria.Estado;
                 _repository.Editar(categoriaInDb);
                 return 1;

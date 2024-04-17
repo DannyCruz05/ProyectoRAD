@@ -22,6 +22,6 @@ namespace CapaDatos.Modelos
             [MaxLength(50)]
             public string Descripcion { get; set; }
             public bool Estado { get; set; }
-            public DateTime FechaIngreso { get; set; }
+            public DateTime FechaCreacion { get; set; }
         }
     }

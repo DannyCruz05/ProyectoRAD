@@ -40,3 +40,14 @@ C:\Users\Andres\Desktop\C#\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\refint\C
 C:\Users\Andres\Desktop\C#\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.pdb
 C:\Users\Andres\Desktop\C#\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.genruntimeconfig.cache
 C:\Users\Andres\Desktop\C#\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\ref\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.AssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\refint\CapaPresentacion.dll
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaPresentacion\obj\Debug\net6.0\CapaPresentacion.pdb

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity.ModelConfiguration.Conventions;
+using CapaDatos.Modelos;
 
 namespace CapaDatos.BaseDeDatos
 {
@@ -23,6 +24,7 @@ namespace CapaDatos.BaseDeDatos
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
-
+        public DbSet<ClienteModel> Clientes { get; set; }
+        public DbSet<CategoriaModel> Categorias { get; set; }
     }
 }

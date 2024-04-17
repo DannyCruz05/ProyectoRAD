@@ -46,11 +46,11 @@
             },
             "EntityFramework": {
               "target": "Package",
-              "version": "[6.1.0, )"
+              "version": "[6.4.4, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.24.0, )"
+              "version": "[2.25.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
