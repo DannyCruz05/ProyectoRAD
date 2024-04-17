@@ -170,7 +170,7 @@
             // txtGrupoDeDescuento
             // 
             this.txtGrupoDeDescuento.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGrupoDeDescuento.Location = new System.Drawing.Point(181, 29);
+            this.txtGrupoDeDescuento.Location = new System.Drawing.Point(211, 29);
             this.txtGrupoDeDescuento.Name = "txtGrupoDeDescuento";
             this.txtGrupoDeDescuento.Size = new System.Drawing.Size(226, 26);
             this.txtGrupoDeDescuento.TabIndex = 36;
