@@ -26,3 +26,5 @@ C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\bin\Debug\net6.
 C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.genruntimeconfig.cache
 C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaClientes.resources
 C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaCategorias.resources
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaGruposDescuento.resources
