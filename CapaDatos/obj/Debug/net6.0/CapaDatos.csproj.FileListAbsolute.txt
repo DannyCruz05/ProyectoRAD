@@ -28,3 +28,8 @@ C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.
 C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.GenerateResource.cache
 C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaCategorias.resources
 C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaGruposDescuento.resources
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaPedidos.resources
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaDetallePedido.resources
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaFacturas.resources
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaDetalleFacturas.resources
+C:\Users\User\Downloads\PROYECTO_CAPAS-main\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.Migrations.AdicionTablaEmpleados.resources

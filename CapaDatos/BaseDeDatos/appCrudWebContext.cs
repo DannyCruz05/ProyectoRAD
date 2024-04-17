@@ -27,6 +27,11 @@ namespace CapaDatos.BaseDeDatos
         public DbSet<ClienteModel> Clientes { get; set; }
         public DbSet<CategoriaModel> Categorias { get; set; }
         public DbSet<GrupoDescuentoModel> GruposDescuento { get; set; }
-        public DbSet<UnidadMedidaModel> UnidadMedida { get; set; }
+        public DbSet<PedidoModel> Pedidos { get; set; }
+        public DbSet<PedidoDetalleModel> DetallePedidos { get; set; }
+        public DbSet<FacturasModel> Facturas { get; set; }
+        public DbSet<FacturasDetalleModel> DetalleFacturas { get; set; }
+        public DbSet<EmpleadosModel> Empleados { get; set; }
+        public DbSet<ProductoModel> Productos { get; set; }
     }
 }

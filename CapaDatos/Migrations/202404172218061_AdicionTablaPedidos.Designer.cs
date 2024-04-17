@@ -7,13 +7,13 @@ namespace CapaDatos.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class AdicionTablaUnidadMedida : IMigrationMetadata
+    public sealed partial class AdicionTablaPedidos : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(AdicionTablaUnidadMedida));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(AdicionTablaPedidos));
         
         string IMigrationMetadata.Id
         {
-            get { return "202404171714256_AdicionTablaUnidadMedida"; }
+            get { return "202404172218061_AdicionTablaPedidos"; }
         }
         
         string IMigrationMetadata.Source

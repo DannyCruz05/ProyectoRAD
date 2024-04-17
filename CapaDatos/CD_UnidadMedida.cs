@@ -16,30 +16,30 @@ namespace CapaDatos
 
         UnitofWork _unitofWork;
 
-        Core.Repository<UnidadMedidaModel> _repository;
+        Core.Repository<UnidadMedidasModel> _repository;
 
         public CD_UnidadMedida()
         {
             _unitofWork = new UnitofWork();
         }
-        public int ClienteId { get; set; }
+        public int UnidadMedidaId { get; set; }
         public string Codigo { get; set; }
         public string Descripcion { get; set; }
         public bool Estado { get; set; }
         public DateTime FechaCreacion { get; set; }
 
 
-        public List<UnidadMedidaModel> TodasLasunidadMedidas()
+        public List<UnidadMedidasModel> TodasLasunidadMedidas()
         {
             return _repository.Consulta().ToList();
         }
 
-        public int Agregar(UnidadMedidaModel UnidadMedida)
+        public int Agregar(UnidadMedidasModel UnidadMedida)
         {
-            _unitofWork.Repository<UnidadMedidaModel>().Agregar(UnidadMedida);
+            _unitofWork.Repository<UnidadMedidasModel>().Agregar(UnidadMedida);
             return _unitofWork.Guardar(); ;
         }
-        public int Editar(UnidadMedidaModel UnidadMedida)
+        public int Editar(UnidadMedidasModel UnidadMedida)
         {
             var unidadMedidaInDb = _repository.Consulta().FirstOrDefault(C => C.UnidadMedidaId == UnidadMedida.UnidadMedidaId);
 

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace CapaDatos.Modelos
 {
     [Table("Empleados")]
-    public class ClientesModel : EntidadBase
+    public class EmpleadosModel : EntidadBase
     {
         [Key]
         public int? idempleado { get; set; }
